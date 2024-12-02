@@ -41,4 +41,4 @@ ____________________Operating System (Linux)________________________
 35. Using head to Display the First 10 Lines
 36. Using tail to Display the Last 10 Lines
 37. Using cut to Extract Multiple Columns
-38. Using paste to Combine Files Horizontally (Combine filel.txt and file2.txt side by side.)
+38. Using paste to Combine Files Horizontally (Combine filel.txt and file2.txt side by side)
