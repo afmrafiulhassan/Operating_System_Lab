@@ -24,4 +24,4 @@ Lab_2:
 17. Remove the empty directory mydir.
 18. Remove a directory and all its contents named testdir.
 19. Delete output.txt and file2.txt.
-20. Create nested directories and then remove them recursively
+20. Create nested directories and then remove them recursively.
