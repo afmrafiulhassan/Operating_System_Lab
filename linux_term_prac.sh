@@ -241,4 +241,4 @@ Su Mo Tu We Th Fr Sa
    47  cal > info5.txt
    48  cat info5.txt
    49  history
-   ~$ Rafiul
+   ~$ Rafiul 
